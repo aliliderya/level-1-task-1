@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string ad; n
+    cout << "İstifadəçi adını daxil edin: ";
+    cin >> ad;
+    cout << "Salam, " << ad << "!" << endl;
+    
+    return 0;
+}
